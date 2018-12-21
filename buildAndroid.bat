@@ -36,7 +36,7 @@ if "%REVERT_CONFIG%"=="revertconfig" (
 	svn revert %PY_CONFIG_GENERATED%
 	svn revert %CLASS_LIST_INL_PATH%
 )
-
+/////////
 popd
 
 echo.
