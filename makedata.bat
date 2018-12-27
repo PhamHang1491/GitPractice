@@ -10,7 +10,7 @@ popd
 if %ERRORLEVEL% neq 0 (
 	goto end
 )
-
+/
 rem check SVN
 echo used tools:
 echo ------------
